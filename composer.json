@@ -1,0 +1,17 @@
+{
+    "name": "framework/light",
+    "description": "php framework light",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Framework\\Light\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dev",
+            "email": "dev@becomingasenior.com"
+        }
+    ],
+    "require": {}
+}
